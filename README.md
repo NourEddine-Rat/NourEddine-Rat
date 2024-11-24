@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NourEddine-Rat | HEX00
-- 👀 I’m a FS DEV  
--💞️ I’m looking to Help People & Learn More about Dev in General ...
+- 👀 I’m a Full Stack Developer
+-💞️ I’m looking to Help People & Learn More about Web Development in General ...
 - 📫 @outhex
 
 <!---
