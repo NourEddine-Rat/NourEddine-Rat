@@ -1,4 +1,5 @@
-![Noureddine's GitHub stats](https://git-stats-readme.vercel.app/api?username=noureddine-rat&show_icons=true&theme=radical)
+![Noureddine's Stats](https://git-stats-readme.vercel.app/api?username=noureddine-rat&count_private=true&include_all_commits=true)
+
 
 ### 👋 Hey, I'm Noureddine Ratbaoui
 💻 Full Stack Developer passionate about creating modern, scalable web apps  
