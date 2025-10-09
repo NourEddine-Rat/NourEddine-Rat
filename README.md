@@ -1,4 +1,5 @@
-![Noureddine's Stats](https://git-stats-readme.vercel.app/api?username=noureddine-rat&count_private=true&include_all_commits=true)
+![Noureddine's Stats](https://git-stats-readme.vercel.app/api?username=noureddine-rat&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
 
 
 ### 👋 Hey, I'm Noureddine Ratbaoui
