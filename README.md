@@ -5,7 +5,7 @@ YOU CAN CONTACT ME HERE! : me@noureddine.site
 
 ![Noureddine's Stats](https://git-stats-readme.vercel.app/api?username=noureddine-rat&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false&border_radius=12&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-![Top Langs](https://git-stats-readme.vercel.app/api/top-langs/?username=noureddine-rat&layout=compact&theme=radical&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=noureddine-rat&theme=radical&hide_border=false&border_radius=12&border=30363D)
 <!---
