@@ -1,9 +1,6 @@
-### 👋 Hey, I'm Noureddine Ratbaoui ----- Open For Work!
-💻 Full Stack Developer passionate about creating modern, scalable web apps  
-💡 Always exploring new tools & frameworks to grow and help others.
-YOU CAN CONTACT ME HERE! : me@noureddine.site
-
-
+### 👋 Hey, I'm Noureddine
+Full Stack Developer & Designer
+Coming up with the best solutions in the industry, helping designers and developers do their work faster and more efficiently.
 
 
 
